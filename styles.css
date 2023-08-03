@@ -132,15 +132,15 @@ label {
 }
 
 .img-card {
-  width: 50rem;
-  height: 57.91rem;
+  width: 51rem;
+  height: 58rem;
   background-image: url("./images/hero-desktop.jpg");
   background-repeat: no-repeat;
   background-size: contain;
 }
 
 .attribution {
-  padding-top: 3rem;
+  padding-top: 1rem;
   text-align: center;
 }
 
